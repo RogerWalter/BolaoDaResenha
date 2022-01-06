@@ -1,0 +1,11 @@
+Para que o sistema funcione, deve existir os seguintes diretórios:
+
+1 - Pasta Bolão da Resenha para os relatorios e comproventes;
+	(C:\BolaoDaResenha\Comprovantes)
+	(C:\BolaoDaResenha\Relatorios)
+
+2 - Pasta com o Banco de Dados do sistema;
+	(C:\Program Files (x86)\BDRDataBase\BDRDATABASE.FDB)
+
+3 - Pasta com os RDLC's para geração dos Relatorios e Comprovantes;
+	(C:\Users\#NOME DO USUÁRIO#\source\repos\BolaoDaResenha\BolaoDaResenha)

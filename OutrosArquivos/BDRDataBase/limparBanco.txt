@@ -1,0 +1,12 @@
+delete from acertos;
+delete from aposta;
+delete from comprovante;
+delete from relatorio;
+delete from sorteio;
+delete from vencedor;
+delete from apostador;
+delete from cambista;
+delete from concurso;
+delete from usuario;
+
+commit work;
